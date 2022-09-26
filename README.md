@@ -1,1 +1,1 @@
-Click buttons to change colors
+Click buttons to change sizes or colors
